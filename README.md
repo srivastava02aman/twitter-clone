@@ -1,6 +1,6 @@
 <h1>Twitter Clone</h1>
 <h2>Technology used.</h2>
 <ul>
-<li></li>
+<li>HTML</li>
   <li></li>
 </ul>
