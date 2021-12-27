@@ -2,5 +2,5 @@
 <h2>Technology used.</h2>
 <ul>
 <li>HTML</li>
-  <li></li>
+  <li>CSS</li>
 </ul>
