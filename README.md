@@ -4,5 +4,5 @@
 <li>HTML</li>
   <li>CSS</li>
 </ul>
-<img src="" alt="Girl in a jacket" width="500" height="600">
-<img src="" alt="Girl in a jacket" width="500" height="600">
+<img src="" alt="Twitter" width="500" height="600">
+<img src="" alt="twitter" width="500" height="600">
