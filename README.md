@@ -4,5 +4,5 @@
 <li>HTML</li>
   <li>CSS</li>
 </ul>
-<img src="https://srivastava02aman.github.io/twitter-clone/" alt="Twitter" width="500" height="600">
+<img src="" alt="Twitter" width="500" height="600">
 <img src="" alt="Twitter" width="500" height="600">
